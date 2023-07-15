@@ -4,7 +4,7 @@ import java.util.List;
 
 public class AddToList {
     public static void addToList (List list) {
-        list.add("some String text");
+        list.add("123");
     }
 }
 
